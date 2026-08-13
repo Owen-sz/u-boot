@@ -59,9 +59,9 @@ to unbrick your device:
 
   https://chromium.googlesource.com/chromiumos/platform/ec/+/cr50_stab/docs/case_closed_debugging.md
 
-You can buy Suzy-Q from Sparkfun:
+You can buy Suzy-Q from Fyra Labs:
 
-  https://chromium.googlesource.com/chromiumos/third_party/hdctools/+/main/docs/ccd.md#suzyq-suzyqable
+https://shop.fyralabs.com/products/suzyq-board
 
 Note that it will hang at the SPL prompt for 21 seconds. When booting into
 Chrome OS it will always select developer mode, so will wipe anything you have
